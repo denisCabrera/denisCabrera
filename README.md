@@ -7,4 +7,4 @@
 
 
 
-[![Denis Github Stats](https://github-readme-stats.vercel.app/api?username=denisCabrera)](https://github.com/denisCabrera/github-readme-stats)
+[![Denis Github Stats](https://github-readme-stats.vercel.app/api?username=denisCabrera&count_private=true)](https://github.com/denisCabrera/github-readme-stats)
