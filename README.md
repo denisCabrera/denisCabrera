@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Computer Science degree and freelancing
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on my Computer Science degree and side projects
+- 🌱 I’m currently improving my JavaScript skills
 - 💬 Ask me about working together
 - 📫 How to reach me: contact@deniscabrera.dev
 
