@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Computer Science degree and side projects
-- 🌱 I’m currently improving my JavaScript skills
+- 🔭 I’m currently working on Computer Science degree and side projects
+- 🌱 I’m currently improving my programming skills and practicing Data Scructures and Algorithms
 - 💬 Ask me about working together
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/denis-cabrera/
 
