@@ -15,4 +15,6 @@ description: >-
 * Finishing Bachelors in Cybersecurity and Information Assurance
 * Obtained A+, Network+, and Security+ certifications from CompTia
 * Passion for learning and problem solving
-* I have always loved taking things apart and learning its inner workings. This is why I love tinkering with new technologies. For this reason the Cybersecurity field is perfect for me because it is constantly changing and there is always something new to lear
+* I have always loved taking things apart and learning its inner workings. This is why I love tinkering with new technologies. For this reason the Cybersecurity field is perfect for me because it is constantly changing and there is always something new to learn
+
+<img src=".gitbook/assets/LI-Bug.svg.original.svg" alt="" data-size="line">
