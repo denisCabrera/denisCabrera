@@ -8,7 +8,7 @@ description: >-
 
 ## A little about myself:
 
-![https://www.linkedin.com/in/denis-cabrera/](<.gitbook/assets/Untitled (800 × 800 px) (1).png>)
+[![](<.gitbook/assets/Untitled (800 × 800 px) (1).png>)](https://www.linkedin.com/in/denis-cabrera/)
 
 
 * Joined the Navy as Electronics Technician but performed primary duties as System Administrator
