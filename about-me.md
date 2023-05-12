@@ -10,7 +10,7 @@ description: >-
 
 ![](<.gitbook/assets/Untitled (800 × 800 px) (1).png>)
 
-
+![https://www.linkedin.com/in/denis-cabrera/](<.gitbook/assets/LI-Bug.svg.original.svg>)
 
 * Joined the Navy as Electronics Technician but performed primary duties as System Administrator
 * Separating from the Navy in October 2023 with 5+ years of technical experience
