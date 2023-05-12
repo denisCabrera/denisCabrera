@@ -1,2 +1,0 @@
-# 🔐 Cybersecurity Projects
-

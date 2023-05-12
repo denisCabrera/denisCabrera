@@ -1,10 +1,19 @@
-### Hi there 👋
+---
+description: >-
+  I decided to create this gitbook to share and store things I have been
+  learning in school and other side projects.
+---
 
-- 🔭 I’m currently working on Computer Science degree and side projects.
-- 🌱 I’m currently improving my programming skills and practicing Data Structures and Algorithms.
-- 💬 Ask me about working together.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/denis-cabrera/)
+# 👋 Welcome !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisCabrera&layout=compact&theme=merko)](https://github.com/denisCabrera/github-readme-stats)
+## A little about myself:
 
-[![Denis Github Stats](https://github-readme-stats.vercel.app/api?username=denisCabrera&count_private=true&show_icons=true&theme=merko&hide=stars,issues)](https://github.com/denisCabrera/github-readme-stats)
+* Joined the Navy as Electronics Technician but performed primary duties as System Administrator
+* I am separating from the Navy in October 2023 with 5+ years of technical experience
+* I am enrolled at WGU perusing a Bachelors in Cybersecurity and Information Assurance
+* I posses A+, Network+, and Security+ certifications from CompTia
+* I have a passion for learning and problem solving.&#x20;
+* I always loved taking things apart and learning how they work. This is why I love tinkering with new technologies. For this reason the Cybersecurity field is perfect for me because it is constantly changing and there is always something new to learn.
+
+
+

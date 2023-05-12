@@ -1,25 +1,27 @@
 # Table of contents
 
-* [Hi there 👋](README.md)
-* [🔐 Cybersecurity Projects](cybersecurity-projects/README.md)
-  * [Port Scanner](blog/port-scanner.md)
-* [📝 College courses](college-courses/README.md)
-  * [Digital Forensics](college-courses/digital-forensics.md)
-* [💻 TryHackMe](tryhackme/README.md)
-  * [WireShark](tryhackme/wireshark.md)
-  * [Nmap](tryhackme/nmap.md)
-  * [Snort](tryhackme/snort.md)
-* [📚 Books](books/README.md)
-  * [If It's Smart, It's Vulnerable](books/if-its-smart-its-vulnerable.md)
+* [👋 Welcome !](README.md)
 
-## Group 1
+## 🛠 Cybersecurity Projects
 
-* [📝 College Courses](group-1/college-courses.md)
+* [Python ](cybersecurity-projects/python.md)
+* [Raspberry Pi](cybersecurity-projects/raspberry-pi.md)
 
-## Group 2
+## 📝 College Courses
 
-* [💻 TryHackMe Lessons](group-2/tryhackme-lessons.md)
+* [Digital Forensics](college-courses/digital-forensics.md)
+* [Network and Security](college-courses/network-and-security.md)
+* [Emerging Technologies](college-courses/emerging-technologies.md)
+* [Legal Issues in Information Security](college-courses/legal-issues-in-information-security.md)
+* [Networks](college-courses/networks.md)
 
-## Group 3
+## 💻 TryHackMe Lessons
 
-* [📚 Books](group-3/books.md)
+* [WireShark](tryhackme-lessons/wireshark.md)
+* [Nmap](tryhackme-lessons/nmap.md)
+* [Snort](tryhackme-lessons/snort.md)
+* [Autopsy](tryhackme-lessons/autopsy.md)
+
+## 📚 Books
+
+* [Coming soon!](books/coming-soon.md)
