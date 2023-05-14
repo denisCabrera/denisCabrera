@@ -4,7 +4,7 @@
 
 ## 🛠 Cybersecurity Projects
 
-* [Python ](cybersecurity-projects/python.md)
+* [Python](cybersecurity-projects/python.md)
 * [Raspberry Pi](cybersecurity-projects/raspberry-pi.md)
 
 ## 📝 College Courses
@@ -25,3 +25,7 @@
 ## 📚 Books
 
 * [Coming soon!](books/coming-soon.md)
+
+***
+
+* [Learning Progress](learning-progress.md)
