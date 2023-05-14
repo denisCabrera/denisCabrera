@@ -4,7 +4,8 @@
 
 ## 🛠 Cybersecurity Projects
 
-* [Python](cybersecurity-projects/python.md)
+* [Python](cybersecurity-projects/python/README.md)
+  * [Chapter 2](cybersecurity-projects/python/chapter-2.md)
 * [Raspberry Pi](cybersecurity-projects/raspberry-pi.md)
 
 ## 📝 College Courses
